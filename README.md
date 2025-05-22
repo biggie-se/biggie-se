@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Hello World</b>
-  - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hello World](https://tinyurl.com/anthonysogomo)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Hello World](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Hello World](http://www.youtube.com/@AnthonySogomo/)
 
 <h2> 🤳 Connect with me:</h2>
 
