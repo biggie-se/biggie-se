@@ -7,7 +7,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Hello World](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -19,7 +19,7 @@
 [twitter]: /
 [youtube]: http://www.youtube.com/@AnthonySogomo/
 [instagram]: /
-[linkedin]: 
+[linkedin]: /
 
 <!--
 **biggie-se/biggie-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
