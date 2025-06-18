@@ -1,5 +1,11 @@
 <h1>Hi, I'm Anthony! <br/><a href="https://github.com/biggie-se">Backend Software Engineer</a></h1>
 
+<h2>Tech Stack</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="36" height="36"/> Django  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/> MySQL
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Hello World</b>
